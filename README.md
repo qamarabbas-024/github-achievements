@@ -16,3 +16,5 @@ A dedicated repository for GitHub Community Achievements showcase!
 - Milestone PR #5 completed with co-author @qamarabbas00
 
 - Co-authored milestone entry #6
+
+- Co-authored milestone entry #7
