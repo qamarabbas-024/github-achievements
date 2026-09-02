@@ -18,3 +18,5 @@ A dedicated repository for GitHub Community Achievements showcase!
 - Co-authored milestone entry #6
 
 - Co-authored milestone entry #7
+
+- Co-authored milestone entry #8
